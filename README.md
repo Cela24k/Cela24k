@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm a computer science student at Ca' Foscari, Venice
-- :sunglasses: I like working with both strongly typed, compiled languages such as *C* and *Java* and loose typed, interpreted ones like *Python* and *JavaScript*
+- :sunglasses: I like working with both strongly typed, compiled languages such as *C* and *Java* and loose, interpreted ones like *Python* and *JavaScript*
 - :revolving_hearts: I absolutely love designing User Interfaces and i'm currently becoming addicted to *React* framework
 - :sweat_smile: Currently working on... myself... and on other projects such as *DATA.* a creative platform to share works and ideas.
 <!--
