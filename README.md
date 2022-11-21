@@ -1,4 +1,4 @@
-### 🤠:
+### 🤠
 
 <!--
 I'm a computer science student at Ca' Foscari, Venice
